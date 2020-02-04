@@ -1,3 +1,8 @@
+ Iclass CashRegister
+
+  attr_accessor :total, :discount, :last_transaction_amount, :items
+
+ 
 # Object Oriented Cash Register
 
 ## Objectives
